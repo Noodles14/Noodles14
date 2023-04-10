@@ -5,6 +5,8 @@ I'm a 13-year-old aspiring web developer 🌐💻 who's passionate about buildin
 
 Follow me for updates on my coding journey 🚀👨‍💻 and to check out some of my [projects](https://github.com/Noodles14?tab=repositories) 🤓👨‍💼!
 
+To read more about me, check out my [portfolio!](https://github.com/Noodles14/portfol)
+
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Boilerbear1) 
