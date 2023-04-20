@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋
 
-I'm a 13-year-old aspiring web developer 🌐💻 who's passionate about building awesome websites and apps 🚀📱. I'm currently learning React ⚛️, Next ⏭️, and Vue 🖥️, and I'm excited to see where these skills will take me 🤩.
+I'm a 12-year-old aspiring web developer 🌐💻 who's passionate about building awesome websites and apps 🚀📱. I'm currently learning React ⚛️, Next ⏭️, and Vue 🖥️, and I'm excited to see where these skills will take me 🤩.
 
 Follow me for updates on my coding journey 🚀👨‍💻 and to check out some of my [projects](https://github.com/Noodles14?tab=repositories) 🤓👨‍💼!
 
